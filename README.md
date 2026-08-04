@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Anubhav Prakash Yadav Banner" width="100%">
+</p>
+
 # Hi 👋, I'm Anubhav Prakash Yadav
 
 <h3 align="center">🚀 Full Stack Developer | Python • Django • React • JavaScript</h3>
