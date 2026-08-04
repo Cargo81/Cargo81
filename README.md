@@ -91,6 +91,7 @@
 
 - GitHub: https://github.com/Cargo81
 - LinkedIn: https://www.linkedin.com/in/anubhavyadav-dev/
+- Email: yadavanubhav388@gmail.com
 
 ---
 
